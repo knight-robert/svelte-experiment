@@ -1,1 +1,1 @@
-![screenshot][https://raw.githubusercontent.com/knight-robert/svelte-experiment/main/public/screenshot.png]
+![screenshot](public/screenshot.png)
