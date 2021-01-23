@@ -1,0 +1,5 @@
+/.vscode/
+/node_modules/
+/public/build/index.css
+/public/build/index.js
+/public/build/index.js.map
