@@ -1,1 +1,1 @@
-![screenshot][./public/screenshot.png]
+![screenshot][tree/main/public/screenshot.png]
