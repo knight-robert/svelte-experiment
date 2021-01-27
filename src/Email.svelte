@@ -5,7 +5,7 @@
 
 <div class='field'>
   <h3 class='is-size-4 has-text-weight-bold'>Email</h3>
-  <div class='is-size-7'><a href='mailto:inquiry@fictitiousMex.com'>inquiry@fictitiousfood.com</a></div>
+  <div class='is-size-7'><a href='mailto:inquiry@fictitiousfood.com'>inquiry@fictitiousfood.com</a></div>
 </div>
 
 <div class='field'>
