@@ -23,7 +23,7 @@
 {#if $isSent}
   <div class='field'>
     <div class="control">
-        <button class="button is-link is-outlined is-small" disabled>Message sent</button>
+      <button class="button is-link is-outlined is-small" disabled>Message sent</button>
     </div>
   </div>
 {/if}

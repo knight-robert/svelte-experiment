@@ -4,9 +4,7 @@
 </script>
 
 <style>
-  #myPage {
-    max-width: 550px;
-  }
+  #myPage {max-width: 550px}
 </style>
 
 <section class="hero is-medium is-primary is-bold">
