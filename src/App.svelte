@@ -14,7 +14,7 @@
         My Svelte-ty Fictitious Restaurant
       </h1>
       <h2 class="subtitle">
-        Come and have a taste of our divine and angelic food made with a touch of Svelte
+        Come and have a taste of our divine food made with a touch of Svelte
       </h2>
     </div>
   </div>
